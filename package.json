@@ -1,0 +1,21 @@
+{
+  "name": "va-dss-web-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "crawler": "^1.1.4",
+    "fs-extra": "^6.0.1",
+    "puppeteer": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Hasan Shingieti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/halshing/va-dss-web-crawler/issues"
+  },
+  "homepage": "https://github.com/halshing/va-dss-web-crawler#readme"
+}
