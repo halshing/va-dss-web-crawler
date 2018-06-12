@@ -2,7 +2,7 @@
 
 Install `npm install`
 
-Run `npm app`
+Run `npm start`
 
 CSV outputs to `contents.csv`
 
