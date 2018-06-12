@@ -65,6 +65,9 @@ const fs = require('fs-extra');
         console.log('Writing to file...');
         await fs.writeFile('contents.csv', str);
 
+        console.log('Closing browser...');
+        await browser.close();
+        
         console.log('Done! :)');
 
     } catch (e) {
